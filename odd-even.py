@@ -14,5 +14,6 @@ while num1<=num2:
 	else:
 		sum_even=sum_even+num1
 	num1=num1+1
+print()
 print(sum_even)
 print(sum_square_odd)
